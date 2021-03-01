@@ -1,4 +1,4 @@
 cowpy==1.0.3
-covid
-pydantic
-requests
+covid==2.4.0
+//pydantic
+//requests
