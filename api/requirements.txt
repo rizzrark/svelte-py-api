@@ -1,1 +1,4 @@
 cowpy==1.0.3
+covid
+pydantic
+requests
