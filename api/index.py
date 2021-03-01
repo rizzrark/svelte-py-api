@@ -1,5 +1,6 @@
 from http.server import BaseHTTPRequestHandler
 from cowpy import cow
+from covid import Covid
 
 class handler(BaseHTTPRequestHandler):
 
@@ -15,7 +16,7 @@ class handler(BaseHTTPRequestHandler):
         self.wfile.write(cuba.encode())
         return
 
-        from covid import Covid
+       
 
 
 
